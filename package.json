@@ -31,5 +31,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/HexStudiosAR/i18n-react.git"
-  }
+  },
+  "private": false
 }
