@@ -1,0 +1,35 @@
+{
+  "name": "@hexstudiosar/i18n-react",
+  "version": "0.6.0",
+  "main": "dist/I18n.js",
+  "types": "dist/types/I18n.d.ts",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.14",
+    "@types/react": "^17.0.35",
+    "@types/react-dom": "^17.0.11",
+    "typescript": "^4.9.5"
+  },
+  "keywords": [
+    "i18n",
+    "internationalization",
+    "react",
+    "typescript"
+  ],
+  "author": "Hexpod604",
+  "license": "MIT",
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HexStudiosAR/i18n-react.git"
+  }
+}
